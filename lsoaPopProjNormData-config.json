@@ -1,0 +1,9 @@
+{
+  "credentials":"aaa:bbb",
+  "sourceFile":"./lsoaPopProjNormData.json",
+  "dataPath": "data",
+  "basedOnSchema": "LsoaPoplet",
+  "targetFolder": "HkekglmJf",
+  "upsertMode": false,
+  "schema": {}
+}
